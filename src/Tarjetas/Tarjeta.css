@@ -1,0 +1,12 @@
+.contenedor{
+    margin: 0px;
+    padding: 0 20px;
+    box-sizing: border-box;
+    align-items: center;
+    justify-content: center;
+    height: 20vh;
+    background: rgba(211, 213, 241, 0.876);
+    width:600px;
+    box-shadow: 1px 1px 4px 2px black;
+    border-radius: 7px;
+}
